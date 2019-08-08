@@ -13,7 +13,7 @@ Save projects vscode.
 
 ## Dependencies  
 
-sudo apt install python-pip
+sudo apt install python-pip  
 pip install PySide2
 
 ## Getting started

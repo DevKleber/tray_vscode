@@ -1,7 +1,5 @@
 <h1 align="center">
-<br>
-  <img src="build/icon.png" alt="GoBarber" width="90">
-<br>
+
 <br>
 Save projects vscode.
 </h1>

@@ -11,7 +11,10 @@ Save projects vscode.
 [Kleber S.](https://github.com/DevKleber)
 ## Features
 
-## Dependencies
+## Dependencies  
+
+sudo apt install python-pip
+pip install PySide2
 
 ## Getting started
 

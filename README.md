@@ -18,4 +18,4 @@ Save projects vscode.
 1. Clone this repository;
 2. Move to the appropriate directory;<br />
 3. Open `startup Applications` to add system boot.<br />
-4. After selected, change add python in first (ex: python /usr/share/trayMenuCode/trayMenuCode.py)
+4. After selected, change add python in first (ex: python /home/kleber/programs/python/tray_vscode)
